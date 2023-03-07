@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018076134385",
+    "project_id": "socialapp-62d79",
+    "storage_bucket": "socialapp-62d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018076134385:android:b37a90152d64f6a9642250",
+        "android_client_info": {
+          "package_name": "com.alkancompany.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018076134385-qpopvvo5g4so9f0jeteh8leqqcn4c8va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6Qn2WHOcUf1QvIP2OYLrrUznpWPkrXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018076134385-qpopvvo5g4so9f0jeteh8leqqcn4c8va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
